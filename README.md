@@ -9,6 +9,7 @@ I'm a passionate **Full Stack Developer** who enjoys turning complex problems in
 - 💼 Full Stack Developer  
 - 💻 Specializing in **Laravel (PHP)** and **Python**
 - 🏢 Currently working at **WilsonWing Pvt. Ltd.** on their AI-based travel platform **Travlo AI**
+- 🌐 Building my own upcoming **eCommerce website**: [flowupnra.com](https://flowupnra.com/)
 - 🎓 MSc in Computer Science (IT) from **Jain University**, Bangalore
 - 🌱 Continuously learning and contributing to open-source
 
@@ -33,6 +34,8 @@ I'm a passionate **Full Stack Developer** who enjoys turning complex problems in
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Cloudways](https://img.shields.io/badge/Cloudways-2C2E82?style=for-the-badge&logo=cloudways&logoColor=white)
 
 ---
 
@@ -40,6 +43,12 @@ I'm a passionate **Full Stack Developer** who enjoys turning complex problems in
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/viraj-ajani-936401255/)  
 - 📧 Email: [virajajani2000@gmail.com](mailto:virajajani2000@gmail.com)
+
+---
+
+### 🚀 Personal Projects
+
+- **[flowupnra.com](https://flowupnra.com/)** — A modern, user-friendly eCommerce platform *(Launch Soon)*
 
 ---
 
